@@ -20,6 +20,6 @@ Industrial Practical Training, Finance-IT Department, Twiga Minerals Corporation
 
 ## Connect
 
-- LinkedIn: [your link]
+- LinkedIn: https://linkedin.com/in/yusuphu-awadhi-lema-08675a39a
 
 - Website: https://lemanyx.com
